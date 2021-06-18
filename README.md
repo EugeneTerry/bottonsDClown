@@ -3,7 +3,7 @@
 # Buttons The Clown Site  [![Netlify Status](https://api.netlify.com)](https://app.netlify.com)
 <!-- update the netlify badge above with your own badge that you can find at netlify under settings/general#status-badges -->
 
-## In your meeting with Mike, here's that information that he wants people to provide when they want to book him for a party.
+### In your meeting with Mike, here's that information that he wants people to provide when they want to book him for a party.
 
 - [Parent name]
 - [Child name]
