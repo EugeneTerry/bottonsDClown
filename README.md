@@ -5,12 +5,12 @@
 
 ## In your meeting with Mike, here's that information that he wants people to provide when they want to book him for a party.
 
--[Parent name]
--[Child name]
--[How many children attending the party]
--[Address of the party]
--[Date of reservation]
--[Length of reservation in hours]
+- [Parent name]
+- [Child name]
+- [How many children attending the party]
+- [Address of the party]
+- [Date of reservation]
+- [Length of reservation in hours]
 
 When people request a reservation, he wants them all listed in chronological order - closest date first. He also wants the ability to delete requests.
 
