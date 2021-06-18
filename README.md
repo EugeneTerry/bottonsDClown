@@ -16,7 +16,7 @@ When people request a reservation, he wants them all listed in chronological ord
 
 Once the party is over, he wants the ability to say if he or Leslie filled the reservation.
 
-[View App](#your-link)
+ [View App](#your-link)
 
 ## Get Started <!-- OPTIONAL, but doesn't hurt -->
 PLACE CODE SNIPPET HERE
@@ -39,7 +39,7 @@ PLACE CODE SNIPPET HERE
 PLACE CODE SNIPPET HERE
 
 ## Project Screenshots <!-- These can be inside of your project. Look at the repos from class and see how the images are included in the readme -->
-<img width="1148" alt="Your Alt" src="your-link.png">
+<img width="1148" alt="Your Alt" src="your-link.png"> 
 
 ## Contributors
 - [Eugene Terry](https://github.com/EugeneTerry)
