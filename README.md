@@ -1,6 +1,6 @@
 # bottonsDClown
 
-# This is the name of my Project  [![Netlify Status](https://api.netlify.com)](https://app.netlify.com)
+# Buttons The Clown Site  [![Netlify Status](https://api.netlify.com)](https://app.netlify.com)
 <!-- update the netlify badge above with your own badge that you can find at netlify under settings/general#status-badges -->
 
 Here I am putting an overview of what my project is about. It comes below the name of my project so that others can read what it is about and get more details.
