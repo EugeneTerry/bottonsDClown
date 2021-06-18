@@ -3,7 +3,18 @@
 # Buttons The Clown Site  [![Netlify Status](https://api.netlify.com)](https://app.netlify.com)
 <!-- update the netlify badge above with your own badge that you can find at netlify under settings/general#status-badges -->
 
-Here I am putting an overview of what my project is about. It comes below the name of my project so that others can read what it is about and get more details.
+## In your meeting with Mike, here's that information that he wants people to provide when they want to book him for a party.
+
+-[Parent name]
+-[Child name]
+-[How many children attending the party]
+-[Address of the party]
+-[Date of reservation]
+-[Length of reservation in hours]
+
+When people request a reservation, he wants them all listed in chronological order - closest date first. He also wants the ability to delete requests.
+
+Once the party is over, he wants the ability to say if he or Leslie filled the reservation.
 
 [View App](#your-link)
 
